@@ -1,0 +1,11 @@
+[package]
+name = "pixels_rects"
+description = "A Rust crate for creating isolated rectangular areas to render on with a pixel buffer."
+version = "0.1.0"
+readme = "README.md"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/theaksym/pixels_rects"
+edition = "2024"
+
+[dependencies]
+num-traits = "0.2.19"
